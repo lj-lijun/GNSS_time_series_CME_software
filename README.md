@@ -44,7 +44,7 @@ GNSS time series CME extraction software
 
 **Contact**
 
-This is the first version of GTS_CME software, if you have any suggestions and comments, or doubts in the use of the process, please send an e-mail to let us know, we will be given as soon as possible to recover, we hope that the user actively put forward valuable advice to us, we will seriously think about and adopt it.
+This is the first shared version of gCMEbox software, if you have any suggestions and comments, or doubts in the process of using it, please send an email to let us know, we will give a reply as soon as possible, we hope that the user actively put forward valuable opinions to us, we will seriously think about and adopt them.
 
 Author：Li Jun
 
