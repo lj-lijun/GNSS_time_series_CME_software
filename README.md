@@ -1,6 +1,9 @@
 # GNSS_time_series_CME_software
+
 GNSS time series CME extraction software
+
 ![image](https://github.com/user-attachments/assets/12912590-934f-48b5-8e62-7cf6381b6c91)
+
 ![image](https://github.com/user-attachments/assets/670d4614-9c14-40c8-967a-382f1d7bcc82)
 
 
@@ -8,7 +11,7 @@ GNSS time series CME extraction software
 
 •	It is recommended to use MATLAB version 2022(a/b) or higher.
 
-•	It is recommended to start the MATLAB software before using the software, as a MATLAB environment is required for GTS_CME to run;
+•	It is recommended to start the MATLAB software before using the software, as a MATLAB environment is required for gCMEbox to run;
 
 •	It is recommended to open the software catalog through MATLAB.
 
@@ -28,18 +31,18 @@ GNSS time series CME extraction software
 **3. EtractCME module**
 
 
-![image](https://github.com/user-attachments/assets/e27a1da3-85c4-4987-b6f7-6af9490eb118)
+![image](https://github.com/user-attachments/assets/ff6231c4-398d-4ed7-81cb-8a0adbf5298a)
 
 
 **4. Paramerization module**
 
 
-![image](https://github.com/user-attachments/assets/d1a983bb-1a5d-4268-a943-4b02e7b6a6e8)
+![image](https://github.com/user-attachments/assets/24269ab3-d67f-41fb-a5e0-f3fe76dda949)
 
 
 **5. velocity field**
 
-![image](https://github.com/user-attachments/assets/a3d02d62-ca0c-47c1-b310-98ba9176a471)
+![image](https://github.com/user-attachments/assets/8a83e7b3-5f82-4f98-a5eb-e54e8456740a)
 
 
 **Contact**
