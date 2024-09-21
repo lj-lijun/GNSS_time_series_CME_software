@@ -37,30 +37,32 @@ GNSS time series CME extraction software
 
 **1. Data module**
 
-![image](https://github.com/lj-lijun/GNSS_time_series_CME_software/assets/113335839/b87e1c4f-ce9e-4555-86b5-90ea7ba5c2b4)
+![image](https://github.com/user-attachments/assets/8251b49c-08f3-454e-a990-a2bb62a35f8f)
 
 
 **2. Preprocess module**
 
-![image](https://github.com/lj-lijun/GNSS_time_series_CME_software/assets/113335839/9905127b-81ee-476c-b4d5-bd0ae68ed348)
+![image](https://github.com/user-attachments/assets/ef4ca9d7-a5d3-40a1-8810-06eedc9af7ff)
 
 
 **3. EtractCME module**
 
-![image](https://github.com/lj-lijun/GNSS_time_series_CME_software/assets/113335839/543ea60f-401a-4c04-80ae-75beee829d54)
+![image](https://github.com/user-attachments/assets/e27a1da3-85c4-4987-b6f7-6af9490eb118)
 
 
-**4. Param vary module**
+**4. Paramerization module**
 
-![image](https://github.com/lj-lijun/GNSS_time_series_CME_software/assets/113335839/09948458-d6f8-4946-be4b-36b117418354)
+![image](https://github.com/user-attachments/assets/d1a983bb-1a5d-4268-a943-4b02e7b6a6e8)
 
+**5. velocity field**
+![image](https://github.com/user-attachments/assets/a3d02d62-ca0c-47c1-b310-98ba9176a471)
 
 
 **Contact**
 
 This is the first version of GTS_CME software, if you have any suggestions and comments, or doubts in the use of the process, please send an e-mail to let us know, we will be given as soon as possible to recover, we hope that the user actively put forward valuable advice to us, we will seriously think about and adopt it.
 
-Author：Jun Li
+Author：Li Jun
 
 E-mail：2452481248@qq.com  or  2023126007@chd.edu.cn  
 
