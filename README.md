@@ -51,6 +51,6 @@ This is the first shared version of gCMEbox software, if you have any suggestion
 
 Author：Li Jun
 
-E-mail：2452481248@qq.com  or  2023126007@chd.edu.cn  
+E-mail：2452481248@qq.com 
 
 Address:  College of Geology Engineering and Geomantics, Chang’an University,Xi’an, 710054, China
