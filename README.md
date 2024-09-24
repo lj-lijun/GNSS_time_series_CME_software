@@ -7,7 +7,7 @@ GNSS time series CME extraction software
 ![image](https://github.com/user-attachments/assets/670d4614-9c14-40c8-967a-382f1d7bcc82)
 
 
-**Note: To ensure normal use of the GTS_CME software, we have the following recommendations:**
+**Note: To ensure normal use of the gCMEbox software, we have the following recommendations:**
 
 •	It is recommended to use MATLAB version 2022(a/b) or higher.
 
