@@ -2,6 +2,11 @@
 
 `Updated Description`
 
+**>>> Date: 2025-07-08**
+
+*•	When testing the gCMEbox software package on newer versions of MATLAB, we found that the built-in function juliandate has undergone changes in its input type. To ensure that gCMEbox runs smoothly on MATLAB versions 2022a and above, we have provided an updated installation package **（gCMEbox_v4_2050708.rar）**. We welcome all users to download and install the latest version. Thank you for your valuable feedback — we will continue to improve the software in future updates.
+
+
 **>>> Date: 2024-10-28**
 
 **(Revisions：Xianpeng Huang, Guilin university of technology)**
